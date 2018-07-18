@@ -1,1 +1,2 @@
 my 1st line from master
+This is my 2nd commit from the branch testing2
